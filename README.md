@@ -12,8 +12,6 @@ My C programming journey through coding practice, problem-solving, and hands-on 
 - Arrays
 - Strings
 - Pointers
-- Structures
-- Functions
 - Problem Solving
 
 ## 🎯 Goal
